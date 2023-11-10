@@ -1,1 +1,4 @@
-# BTECH-
+CSE 
+MECH
+IT
+ECE
